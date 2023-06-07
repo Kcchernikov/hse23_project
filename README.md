@@ -1,6 +1,6 @@
 # hse23_project
 
-## Ссылка на ноутбук 
+## [Ссылка на ноутбук](https://github.com/Kcchernikov/hse23_project/blob/main/src/table.ipynb)
 
 Выравнивание проводилось через ClustalW
 
