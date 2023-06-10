@@ -2,6 +2,18 @@
 
 ## [Ссылка на ноутбук](https://github.com/Kcchernikov/hse23_project/blob/main/src/table.ipynb)
 
+## EP300
+
+It functions as histone acetyltransferase that regulates transcription of genes via chromatin remodeling by allowing histone proteins to wrap DNA less tightly. This enzyme plays an essential role in regulating cell growth and division, prompting cells to mature and assume specialized functions (differentiate), and preventing the growth of cancerous tumors
+
+[REEBP and EP300 are related proteins that possess HAT activity and are reported to acetylate all four core histones](https://www.sciencedirect.com/science/article/abs/pii/S0145212611005686)
+
+[EP300 and its paralog CBP play an important role in post-translational modification as histone acetyltransferases (HATs)](https://pubmed.ncbi.nlm.nih.gov/35413416/)
+
+## Экспрессируется в следующих тканях
+
+<img width="1224" alt="image" src="https://github.com/Kcchernikov/hse23_project/assets/80039707/5ab32f9a-8690-4370-895a-e3c5dfa3c6fe">
+
 Выравнивание проводилось через ClustalW
 
 ## Выравнивание H2A
