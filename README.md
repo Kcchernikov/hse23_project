@@ -37,3 +37,7 @@ It functions as histone acetyltransferase that regulates transcription of genes 
 
 ## Тепловая карта по таблице -log(E-value)
 <img width="795" alt="image" src="https://github.com/Kcchernikov/hse23_project/assets/80039707/fc1024be-5198-4da8-9a2e-2ffa3d01de98">
+
+## Вывод
+
+Тепловая карта показывает, что EP300 появляется, как минимум, у дрожжей
