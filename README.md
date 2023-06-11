@@ -28,12 +28,15 @@ It functions as histone acetyltransferase that regulates transcription of genes 
 ## Выравнивание H4
 <img width="1512" alt="image" src="https://github.com/Kcchernikov/hse23_project/assets/80039707/7c1b7783-50c5-4d33-9296-081cd969e4bf">
 
+## Выводы по выравниванию
+
+Выравнивание показало, что гены очень похожи друг на друга, где-то совпадает больше (H3), где-то меньше (H2B). Можно сделать вывод, что гены почти что являются копиями
+
 ## Таблица с E-value
 <img width="1020" alt="image" src="https://github.com/Kcchernikov/hse23_project/assets/80039707/4a118bb0-062e-44bd-bf60-98631443e1e1">
 
 ## Таблица с -log(E-value)
 <img width="970" alt="image" src="https://github.com/Kcchernikov/hse23_project/assets/80039707/ba4de877-96b2-4ac6-8b54-bc16d242e46a">
-
 
 ## Тепловая карта по таблице -log(E-value)
 <img width="795" alt="image" src="https://github.com/Kcchernikov/hse23_project/assets/80039707/fc1024be-5198-4da8-9a2e-2ffa3d01de98">
